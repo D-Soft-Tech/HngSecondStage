@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HngSecondStage</string>
+    <string name="save">Save</string>
+    <string name="hint">Enter something</string>
+    <string name="zuri_logo">Zuri Logo</string>
+    <string name="ingressive_logo">Ingressive Logo</string>
+    <string name="result">Your input will appear here</string>
+</resources>
